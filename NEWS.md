@@ -3,6 +3,9 @@ XGBoost Change Log
 
 This file records the changes in xgboost library in reverse chronological order.
 
+## v0.72 (2018.06.01)
+[PLACE DESCRIPTION HERE]
+
 ## v0.71 (2018.04.11)
 * This is a minor release, mainly motivated by issues concerning `pip install`, e.g. #2426, #3189, #3118, and #3194.
   With this release, users of Linux and MacOS will be able to run `pip install` for the most part.
